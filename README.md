@@ -17,4 +17,4 @@ Essas foram as fontes utilizadas durante todo o projeto:
 
   * Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
   * Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv));
-  * Vacinação pelo [Wesley Cota](https://github.com/wcota) disponível ([link](https://github.com/wcota/covid19br-vac)).
+  * Vacinação pelo estado de São Paulo ([link](https://github.com/wcota/covid19br-vac)).
