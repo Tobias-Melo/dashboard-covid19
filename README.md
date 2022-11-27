@@ -7,6 +7,7 @@ Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)
 
 ---
 
+Trata-se de uma Análise Exploratória de Dados e criação de um dashboard com os dados de COVID-19 ocorrido em 2021.
 O projeto foi desenvolvido seguindo os seguintes passos:
 
   * Análise Exploratória de Dados - [Link](https://www.kaggle.com/code/tobiasmelo/dashboard-covid-19-2021)
