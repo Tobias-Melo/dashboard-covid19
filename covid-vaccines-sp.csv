@@ -1,0 +1,366 @@
+date,state,city,vaccine,sex,age,count
+2021-01-16,SP,Itararé/SP,Sinovac,F,20-24,1
+2021-01-17,SP,Aguaí/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-17,SP,Americana/SP,Sinovac,F,30-34,1
+2021-01-17,SP,Américo Brasiliense/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Américo Brasiliense/SP,Sinovac,F,30-34,3
+2021-01-17,SP,Américo Brasiliense/SP,Sinovac,M,25-29,1
+2021-01-17,SP,Araraquara/SP,Johnson&Johnson,F,65-69,2
+2021-01-17,SP,Araçoiaba da Serra/SP,Pfizer/BioNTech,M,50-54,1
+2021-01-17,SP,Barueri/SP,Pfizer/BioNTech,F,10-14,1
+2021-01-17,SP,Barueri/SP,Pfizer/BioNTech,F,15-19,1
+2021-01-17,SP,Barueri/SP,Pfizer/BioNTech,F,20-24,1
+2021-01-17,SP,Barueri/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-17,SP,Bastos/SP,Sinovac,F,40-44,1
+2021-01-17,SP,Bastos/SP,Sinovac,F,45-49,1
+2021-01-17,SP,Bastos/SP,Sinovac,F,80-84,1
+2021-01-17,SP,Bastos/SP,Sinovac,M,20-24,1
+2021-01-17,SP,Bastos/SP,Sinovac,M,35-39,2
+2021-01-17,SP,Bastos/SP,Sinovac,M,85-89,1
+2021-01-17,SP,Bauru/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Bauru/SP,Sinovac,F,35-39,1
+2021-01-17,SP,Bauru/SP,Sinovac,F,45-49,1
+2021-01-17,SP,Bertioga/SP,Sinovac,F,35-39,1
+2021-01-17,SP,Botucatu/SP,Sinovac,M,85-89,1
+2021-01-17,SP,Campinas/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Campinas/SP,Sinovac,F,50-54,1
+2021-01-17,SP,Campinas/SP,Pfizer/BioNTech,F,20-24,1
+2021-01-17,SP,Campinas/SP,Sinovac,F,55-59,1
+2021-01-17,SP,Caraguatatuba/SP,Pfizer/BioNTech,F,60-64,1
+2021-01-17,SP,Carapicuíba/SP,Sinovac,F,80-84,2
+2021-01-17,SP,Carapicuíba/SP,Sinovac,M,40-44,1
+2021-01-17,SP,Caçapava/SP,Johnson&Johnson,F,40-44,1
+2021-01-17,SP,Cubatão/SP,Johnson&Johnson,F,20-24,2
+2021-01-17,SP,Descalvado/SP,Pfizer/BioNTech,M,55-59,1
+2021-01-17,SP,Embu das Artes/SP,Sinovac,F,35-39,1
+2021-01-17,SP,Embu das Artes/SP,Sinovac,F,50-54,1
+2021-01-17,SP,Embu das Artes/SP,Pfizer/BioNTech,F,45-49,1
+2021-01-17,SP,Embu-Guaçu/SP,Sinovac,F,35-39,1
+2021-01-17,SP,Franco da Rocha/SP,Pfizer/BioNTech,F,45-49,1
+2021-01-17,SP,Getulina/SP,Sinovac,M,55-59,1
+2021-01-17,SP,Guaratinguetá/SP,Sinovac,F,20-24,1
+2021-01-17,SP,Guaratinguetá/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Guaratinguetá/SP,Sinovac,F,40-44,2
+2021-01-17,SP,Guarujá/SP,Oxford/AstraZeneca,M,60-64,1
+2021-01-17,SP,Guarujá/SP,Oxford/AstraZeneca,M,25-29,1
+2021-01-17,SP,Guarulhos/SP,Pfizer/BioNTech,M,10-14,1
+2021-01-17,SP,Guarulhos/SP,Sinovac,F,30-34,1
+2021-01-17,SP,Guarulhos/SP,Sinovac,F,40-44,1
+2021-01-17,SP,Guarulhos/SP,Sinovac,F,45-49,1
+2021-01-17,SP,Guarulhos/SP,Sinovac,F,70-74,1
+2021-01-17,SP,Guarulhos/SP,Sinovac,M,55-59,1
+2021-01-17,SP,Guarulhos/SP,Pfizer/BioNTech,F,15-19,1
+2021-01-17,SP,Guarulhos/SP,Pfizer/BioNTech,F,45-49,1
+2021-01-17,SP,Igaraçu do Tietê/SP,Sinovac,F,45-49,1
+2021-01-17,SP,Igaraçu do Tietê/SP,Sinovac,M,55-59,1
+2021-01-17,SP,Ilha Comprida/SP,Sinovac,F,90+,1
+2021-01-17,SP,Ipaussu/SP,Sinovac,M,55-59,1
+2021-01-17,SP,Irapuã/SP,Pfizer/BioNTech,M,55-59,1
+2021-01-17,SP,Itapetininga/SP,Pfizer/BioNTech,F,60-64,1
+2021-01-17,SP,Itapevi/SP,Pfizer/BioNTech,M,35-39,1
+2021-01-17,SP,Itaquaquecetuba/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Itaquaquecetuba/SP,Sinovac,F,35-39,2
+2021-01-17,SP,Itaquaquecetuba/SP,Sinovac,F,40-44,1
+2021-01-17,SP,Itupeva/SP,Oxford/AstraZeneca,F,50-54,1
+2021-01-17,SP,Itápolis/SP,Sinovac,M,35-39,1
+2021-01-17,SP,Jandira/SP,Pfizer/BioNTech,F,45-49,1
+2021-01-17,SP,Jandira/SP,Pfizer/BioNTech,F,60-64,1
+2021-01-17,SP,Jundiaí/SP,Sinovac,F,35-39,2
+2021-01-17,SP,Jundiaí/SP,Sinovac,F,65-69,1
+2021-01-17,SP,Jundiaí/SP,Sinovac,M,20-24,1
+2021-01-17,SP,Jundiaí/SP,Sinovac,M,25-29,1
+2021-01-17,SP,Mairinque/SP,Pfizer/BioNTech,F,45-49,1
+2021-01-17,SP,Mairiporã/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Marília/SP,Oxford/AstraZeneca,F,40-44,1
+2021-01-17,SP,Marília/SP,Sinovac,F,30-34,1
+2021-01-17,SP,Marília/SP,Sinovac,F,35-39,1
+2021-01-17,SP,Marília/SP,Sinovac,F,40-44,1
+2021-01-17,SP,Marília/SP,Sinovac,F,60-64,1
+2021-01-17,SP,Marília/SP,Sinovac,M,30-34,1
+2021-01-17,SP,Mauá/SP,Oxford/AstraZeneca,F,40-44,1
+2021-01-17,SP,Mauá/SP,Sinovac,F,35-39,1
+2021-01-17,SP,Olímpia/SP,Sinovac,F,65-69,1
+2021-01-17,SP,Osasco/SP,Oxford/AstraZeneca,F,55-59,1
+2021-01-17,SP,Pedreira/SP,Oxford/AstraZeneca,F,50-54,2
+2021-01-17,SP,Pedreira/SP,Oxford/AstraZeneca,M,30-34,3
+2021-01-17,SP,Peruíbe/SP,Pfizer/BioNTech,F,35-39,1
+2021-01-17,SP,Peruíbe/SP,Pfizer/BioNTech,F,65-69,1
+2021-01-17,SP,Pindamonhangaba/SP,Oxford/AstraZeneca,F,45-49,1
+2021-01-17,SP,Piracicaba/SP,Sinovac,F,65-69,1
+2021-01-17,SP,Pirapora do Bom Jesus/SP,Pfizer/BioNTech,M,25-29,1
+2021-01-17,SP,Planalto/SP,Pfizer/BioNTech,F,30-34,1
+2021-01-17,SP,Pompéia/SP,Sinovac,F,55-59,1
+2021-01-17,SP,Poá/SP,Pfizer/BioNTech,M,45-49,1
+2021-01-17,SP,Praia Grande/SP,Sinovac,F,90+,1
+2021-01-17,SP,Praia Grande/SP,Pfizer/BioNTech,F,40-44,1
+2021-01-17,SP,Presidente Alves/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Ribeirão Pires/SP,Pfizer/BioNTech,F,50-54,1
+2021-01-17,SP,Ribeirão Preto/SP,Sinovac,F,30-34,1
+2021-01-17,SP,Ribeirão Preto/SP,Sinovac,F,50-54,2
+2021-01-17,SP,Rio Claro/SP,Sinovac,M,35-39,1
+2021-01-17,SP,Rio Claro/SP,Sinovac,M,55-59,1
+2021-01-17,SP,Santa Maria da Serra/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-17,SP,Santa Maria da Serra/SP,Pfizer/BioNTech,M,55-59,1
+2021-01-17,SP,Santo André/SP,Oxford/AstraZeneca,M,35-39,1
+2021-01-17,SP,Santo André/SP,Sinovac,M,5-9,1
+2021-01-17,SP,Santo André/SP,Oxford/AstraZeneca,M,45-49,1
+2021-01-17,SP,Santo André/SP,Pfizer/BioNTech,M,50-54,1
+2021-01-17,SP,Santos/SP,Sinovac,F,60-64,1
+2021-01-17,SP,Santos/SP,Pfizer/BioNTech,M,55-59,1
+2021-01-17,SP,Serrana/SP,Sinovac,M,20-24,1
+2021-01-17,SP,Severínia/SP,Pfizer/BioNTech,F,50-54,1
+2021-01-17,SP,Sorocaba/SP,Oxford/AstraZeneca,F,30-34,1
+2021-01-17,SP,Sorocaba/SP,Pfizer/BioNTech,F,5-9,1
+2021-01-17,SP,Sorocaba/SP,Pfizer/BioNTech,M,20-24,1
+2021-01-17,SP,Sorocaba/SP,Pfizer/BioNTech,M,45-49,1
+2021-01-17,SP,Sorocaba/SP,Pfizer/BioNTech,M,50-54,1
+2021-01-17,SP,Sorocaba/SP,Sinovac,M,45-49,1
+2021-01-17,SP,Suzano/SP,Sinovac,F,35-39,1
+2021-01-17,SP,Suzano/SP,Pfizer/BioNTech,M,60-64,1
+2021-01-17,SP,São Bernardo do Campo/SP,Oxford/AstraZeneca,F,50-54,1
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,F,25-29,2
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,F,30-34,4
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,F,35-39,2
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,F,40-44,3
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,F,45-49,1
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,F,50-54,2
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,M,20-24,1
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,M,25-29,1
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,M,30-34,1
+2021-01-17,SP,São Bernardo do Campo/SP,Sinovac,M,65-69,1
+2021-01-17,SP,São Caetano do Sul/SP,Sinovac,F,35-39,2
+2021-01-17,SP,São Caetano do Sul/SP,Sinovac,F,45-49,1
+2021-01-17,SP,São Caetano do Sul/SP,Sinovac,F,50-54,1
+2021-01-17,SP,São Caetano do Sul/SP,Sinovac,M,40-44,1
+2021-01-17,SP,São José dos Campos/SP,Sinovac,F,75-79,2
+2021-01-17,SP,São Lourenço da Serra/SP,Pfizer/BioNTech,M,45-49,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,20-24,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,35-39,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,40-44,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,45-49,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,50-54,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,55-59,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,60-64,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,65-69,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,M,30-34,3
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,M,35-39,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,M,40-44,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,M,50-54,3
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,M,60-64,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,M,65-69,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,M,75-79,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,F,40-44,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,F,65-69,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,F,90+,2
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,M,35-39,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,M,45-49,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,M,50-54,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,M,60-64,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,M,65-69,1
+2021-01-17,SP,São Paulo/SP,Oxford/AstraZeneca,M,80-84,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,M,10-14,1
+2021-01-17,SP,São Paulo/SP,Sinovac,F,20-24,7
+2021-01-17,SP,São Paulo/SP,Sinovac,F,25-29,31
+2021-01-17,SP,São Paulo/SP,Sinovac,F,30-34,26
+2021-01-17,SP,São Paulo/SP,Sinovac,F,35-39,16
+2021-01-17,SP,São Paulo/SP,Sinovac,F,40-44,29
+2021-01-17,SP,São Paulo/SP,Sinovac,F,45-49,10
+2021-01-17,SP,São Paulo/SP,Sinovac,F,50-54,17
+2021-01-17,SP,São Paulo/SP,Sinovac,F,55-59,14
+2021-01-17,SP,São Paulo/SP,Sinovac,F,65-69,5
+2021-01-17,SP,São Paulo/SP,Sinovac,F,70-74,5
+2021-01-17,SP,São Paulo/SP,Sinovac,F,80-84,1
+2021-01-17,SP,São Paulo/SP,Sinovac,F,85-89,3
+2021-01-17,SP,São Paulo/SP,Sinovac,F,90+,4
+2021-01-17,SP,São Paulo/SP,Sinovac,F,90+,2
+2021-01-17,SP,São Paulo/SP,Sinovac,M,15-19,1
+2021-01-17,SP,São Paulo/SP,Sinovac,M,20-24,7
+2021-01-17,SP,São Paulo/SP,Sinovac,M,25-29,8
+2021-01-17,SP,São Paulo/SP,Sinovac,M,30-34,9
+2021-01-17,SP,São Paulo/SP,Sinovac,M,35-39,7
+2021-01-17,SP,São Paulo/SP,Sinovac,M,40-44,6
+2021-01-17,SP,São Paulo/SP,Sinovac,M,45-49,7
+2021-01-17,SP,São Paulo/SP,Sinovac,M,50-54,4
+2021-01-17,SP,São Paulo/SP,Sinovac,M,55-59,7
+2021-01-17,SP,São Paulo/SP,Sinovac,M,60-64,2
+2021-01-17,SP,São Paulo/SP,Sinovac,M,70-74,1
+2021-01-17,SP,São Paulo/SP,Sinovac,M,80-84,2
+2021-01-17,SP,São Paulo/SP,Sinovac,M,85-89,1
+2021-01-17,SP,São Paulo/SP,Sinovac,M,85-89,1
+2021-01-17,SP,São Paulo/SP,Johnson&Johnson,F,70-74,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,15-19,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,20-24,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,40-44,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,45-49,2
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,50-54,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,F,65-69,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,M,20-24,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,M,25-29,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,M,45-49,2
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,M,50-54,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,M,55-59,1
+2021-01-17,SP,São Paulo/SP,Pfizer/BioNTech,M,65-69,1
+2021-01-17,SP,São Paulo/SP,Sinovac,F,20-24,1
+2021-01-17,SP,São Paulo/SP,Sinovac,F,25-29,2
+2021-01-17,SP,São Paulo/SP,Sinovac,F,30-34,3
+2021-01-17,SP,São Paulo/SP,Sinovac,F,35-39,3
+2021-01-17,SP,São Paulo/SP,Sinovac,F,40-44,5
+2021-01-17,SP,São Paulo/SP,Sinovac,F,45-49,5
+2021-01-17,SP,São Paulo/SP,Sinovac,F,50-54,2
+2021-01-17,SP,São Paulo/SP,Sinovac,F,55-59,1
+2021-01-17,SP,São Paulo/SP,Sinovac,F,70-74,1
+2021-01-17,SP,São Paulo/SP,Sinovac,M,30-34,2
+2021-01-17,SP,São Paulo/SP,Sinovac,M,35-39,2
+2021-01-17,SP,São Paulo/SP,Sinovac,M,40-44,1
+2021-01-17,SP,São Paulo/SP,Sinovac,M,60-64,1
+2021-01-17,SP,São Paulo/SP,Sinovac,M,65-69,1
+2021-01-17,SP,São Roque/SP,Sinovac,F,60-64,1
+2021-01-17,SP,São Sebastião/SP,Pfizer/BioNTech,M,50-54,1
+2021-01-17,SP,São Vicente/SP,Sinovac,F,55-59,1
+2021-01-17,SP,São Vicente/SP,Sinovac,M,20-24,1
+2021-01-17,SP,Taboão da Serra/SP,Sinovac,F,30-34,1
+2021-01-17,SP,Taubaté/SP,Sinovac,F,20-24,1
+2021-01-17,SP,Taubaté/SP,Sinovac,M,60-64,1
+2021-01-17,SP,Tremembé/SP,Sinovac,F,25-29,1
+2021-01-17,SP,Ubatuba/SP,Pfizer/BioNTech,F,80-84,1
+2021-01-17,SP,Vargem Grande Paulista/SP,Sinovac,M,60-64,1
+2021-01-17,SP,Vargem/SP,Oxford/AstraZeneca,F,75-79,1
+2021-01-17,SP,Vinhedo/SP,Sinovac,F,35-39,1
+2021-01-18,SP,Américo Brasiliense/SP,Sinovac,F,40-44,1
+2021-01-18,SP,Araçatuba/SP,Sinovac,M,45-49,1
+2021-01-18,SP,Bady Bassitt/SP,Pfizer/BioNTech,F,20-24,1
+2021-01-18,SP,Barueri/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-18,SP,Bauru/SP,Pfizer/BioNTech,F,45-49,1
+2021-01-18,SP,Bertioga/SP,Sinovac,F,85-89,1
+2021-01-18,SP,Botucatu/SP,Sinovac,F,20-24,8
+2021-01-18,SP,Botucatu/SP,Sinovac,F,25-29,21
+2021-01-18,SP,Botucatu/SP,Sinovac,F,30-34,13
+2021-01-18,SP,Botucatu/SP,Sinovac,F,35-39,14
+2021-01-18,SP,Botucatu/SP,Sinovac,F,40-44,14
+2021-01-18,SP,Botucatu/SP,Sinovac,F,45-49,3
+2021-01-18,SP,Botucatu/SP,Sinovac,F,50-54,2
+2021-01-18,SP,Botucatu/SP,Sinovac,F,60-64,2
+2021-01-18,SP,Botucatu/SP,Sinovac,M,20-24,2
+2021-01-18,SP,Botucatu/SP,Sinovac,M,25-29,22
+2021-01-18,SP,Botucatu/SP,Sinovac,M,30-34,9
+2021-01-18,SP,Botucatu/SP,Sinovac,M,35-39,1
+2021-01-18,SP,Botucatu/SP,Sinovac,M,40-44,1
+2021-01-18,SP,Botucatu/SP,Sinovac,M,45-49,4
+2021-01-18,SP,Botucatu/SP,Sinovac,M,55-59,1
+2021-01-18,SP,Botucatu/SP,Sinovac,M,60-64,1
+2021-01-18,SP,Botucatu/SP,Sinovac,M,25-29,1
+2021-01-18,SP,Campinas/SP,Sinovac,F,20-24,1
+2021-01-18,SP,Campinas/SP,Sinovac,F,25-29,2
+2021-01-18,SP,Campinas/SP,Sinovac,F,30-34,2
+2021-01-18,SP,Campinas/SP,Sinovac,F,35-39,3
+2021-01-18,SP,Campinas/SP,Sinovac,F,40-44,3
+2021-01-18,SP,Campinas/SP,Sinovac,F,45-49,2
+2021-01-18,SP,Campinas/SP,Sinovac,F,55-59,1
+2021-01-18,SP,Campinas/SP,Sinovac,F,65-69,1
+2021-01-18,SP,Campinas/SP,Sinovac,M,30-34,1
+2021-01-18,SP,Campinas/SP,Sinovac,M,35-39,1
+2021-01-18,SP,Campinas/SP,Sinovac,M,55-59,1
+2021-01-18,SP,Campinas/SP,Sinovac,M,60-64,1
+2021-01-18,SP,Carapicuíba/SP,Sinovac,M,25-29,1
+2021-01-18,SP,Cosmópolis/SP,Oxford/AstraZeneca,F,55-59,1
+2021-01-18,SP,Cravinhos/SP,Pfizer/BioNTech,M,45-49,1
+2021-01-18,SP,Cruzeiro/SP,Pfizer/BioNTech,F,40-44,1
+2021-01-18,SP,Diadema/SP,Pfizer/BioNTech,M,55-59,1
+2021-01-18,SP,Embu-Guaçu/SP,Sinovac,M,55-59,1
+2021-01-18,SP,Franca/SP,Sinovac,M,55-59,1
+2021-01-18,SP,Franco da Rocha/SP,Pfizer/BioNTech,M,5-9,1
+2021-01-18,SP,Guaratinguetá/SP,Sinovac,F,30-34,1
+2021-01-18,SP,Guarujá/SP,Sinovac,F,25-29,1
+2021-01-18,SP,Guarujá/SP,Sinovac,M,75-79,1
+2021-01-18,SP,Guarulhos/SP,Johnson&Johnson,M,45-49,1
+2021-01-18,SP,Guarulhos/SP,Pfizer/BioNTech,F,35-39,1
+2021-01-18,SP,Ibitinga/SP,Pfizer/BioNTech,M,25-29,1
+2021-01-18,SP,Ipuã/SP,Pfizer/BioNTech,M,10-14,1
+2021-01-18,SP,Itapecerica da Serra/SP,Sinovac,M,60-64,1
+2021-01-18,SP,Itapecerica da Serra/SP,Pfizer/BioNTech,F,40-44,1
+2021-01-18,SP,Itapevi/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-18,SP,Jundiaí/SP,Sinovac,M,40-44,1
+2021-01-18,SP,Juquitiba/SP,Pfizer/BioNTech,F,10-14,1
+2021-01-18,SP,Lorena/SP,Sinovac,F,25-29,1
+2021-01-18,SP,Marília/SP,Pfizer/BioNTech,M,75-79,1
+2021-01-18,SP,Marília/SP,Sinovac,M,35-39,1
+2021-01-18,SP,Mauá/SP,Sinovac,F,55-59,2
+2021-01-18,SP,Mongaguá/SP,Sinovac,M,30-34,1
+2021-01-18,SP,Osasco/SP,Sinovac,F,35-39,1
+2021-01-18,SP,Osasco/SP,Johnson&Johnson,M,50-54,1
+2021-01-18,SP,Penápolis/SP,Sinovac,F,20-24,7
+2021-01-18,SP,Penápolis/SP,Sinovac,F,25-29,6
+2021-01-18,SP,Penápolis/SP,Sinovac,F,30-34,5
+2021-01-18,SP,Penápolis/SP,Sinovac,F,35-39,2
+2021-01-18,SP,Penápolis/SP,Sinovac,F,40-44,3
+2021-01-18,SP,Penápolis/SP,Sinovac,F,45-49,4
+2021-01-18,SP,Penápolis/SP,Sinovac,F,50-54,2
+2021-01-18,SP,Penápolis/SP,Sinovac,F,55-59,2
+2021-01-18,SP,Penápolis/SP,Sinovac,F,65-69,1
+2021-01-18,SP,Penápolis/SP,Sinovac,M,20-24,2
+2021-01-18,SP,Penápolis/SP,Sinovac,M,25-29,2
+2021-01-18,SP,Penápolis/SP,Sinovac,M,30-34,1
+2021-01-18,SP,Penápolis/SP,Sinovac,M,40-44,1
+2021-01-18,SP,Penápolis/SP,Sinovac,M,65-69,2
+2021-01-18,SP,Penápolis/SP,Sinovac,M,70-74,1
+2021-01-18,SP,Piedade/SP,Pfizer/BioNTech,F,5-9,1
+2021-01-18,SP,Piracicaba/SP,Pfizer/BioNTech,M,35-39,1
+2021-01-18,SP,Pirapora do Bom Jesus/SP,Sinovac,F,80-84,1
+2021-01-18,SP,Pitangueiras/SP,Oxford/AstraZeneca,F,15-19,1
+2021-01-18,SP,Praia Grande/SP,Oxford/AstraZeneca,F,50-54,1
+2021-01-18,SP,Praia Grande/SP,Pfizer/BioNTech,F,15-19,1
+2021-01-18,SP,Queluz/SP,Sinovac,M,40-44,1
+2021-01-18,SP,Queluz/SP,Sinovac,F,55-59,1
+2021-01-18,SP,Registro/SP,Pfizer/BioNTech,F,55-59,1
+2021-01-18,SP,Ribeirão Pires/SP,Oxford/AstraZeneca,M,30-34,1
+2021-01-18,SP,Ribeirão Pires/SP,Sinovac,F,65-69,1
+2021-01-18,SP,Rio Claro/SP,Pfizer/BioNTech,F,50-54,2
+2021-01-18,SP,Rio Claro/SP,Sinovac,F,55-59,1
+2021-01-18,SP,Rio Grande da Serra/SP,Pfizer/BioNTech,F,40-44,1
+2021-01-18,SP,Rio Grande da Serra/SP,Pfizer/BioNTech,F,50-54,1
+2021-01-18,SP,Rio Grande da Serra/SP,Pfizer/BioNTech,M,45-49,1
+2021-01-18,SP,Riolândia/SP,Pfizer/BioNTech,F,70-74,1
+2021-01-18,SP,Santa Cruz do Rio Pardo/SP,Sinovac,F,85-89,1
+2021-01-18,SP,Santo André/SP,Sinovac,F,35-39,1
+2021-01-18,SP,Santo André/SP,Pfizer/BioNTech,F,50-54,2
+2021-01-18,SP,Santo André/SP,Pfizer/BioNTech,F,80-84,1
+2021-01-18,SP,Santo André/SP,Pfizer/BioNTech,M,50-54,1
+2021-01-18,SP,Santos/SP,Sinovac,F,90+,1
+2021-01-18,SP,Santos/SP,Sinovac,F,40-44,1
+2021-01-18,SP,Santos/SP,Sinovac,M,45-49,1
+2021-01-18,SP,Sorocaba/SP,Oxford/AstraZeneca,F,15-19,1
+2021-01-18,SP,Sorocaba/SP,Oxford/AstraZeneca,F,55-59,1
+2021-01-18,SP,Sorocaba/SP,Sinovac,F,20-24,1
+2021-01-18,SP,Sorocaba/SP,Sinovac,F,40-44,1
+2021-01-18,SP,Sorocaba/SP,Sinovac,M,25-29,1
+2021-01-18,SP,Sorocaba/SP,Sinovac,F,55-59,1
+2021-01-18,SP,Sumaré/SP,Oxford/AstraZeneca,M,25-29,1
+2021-01-18,SP,Sumaré/SP,Pfizer/BioNTech,F,35-39,1
+2021-01-18,SP,São Bernardo do Campo/SP,Pfizer/BioNTech,M,45-49,1
+2021-01-18,SP,São José do Rio Pardo/SP,Sinovac,M,35-39,1
+2021-01-18,SP,São José dos Campos/SP,Sinovac,F,70-74,2
+2021-01-18,SP,São José dos Campos/SP,Sinovac,M,40-44,1
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,15-19,3
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,20-24,7
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,25-29,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,30-34,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,35-39,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,40-44,8
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,45-49,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,50-54,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,55-59,9
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,60-64,11
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,65-69,6
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,70-74,3
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,75-79,3
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,F,80-84,1
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,20-24,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,25-29,7
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,30-34,4
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,35-39,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,40-44,11
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,45-49,5
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,50-54,12
+2021-01-18,SP,São Paulo/SP,Johnson&Johnson,M,55-59,5
